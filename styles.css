@@ -36,3 +36,10 @@
     font-size: 20px;
     color: #fff;
 }
+
+h2{
+    font-size: 50px;
+    font-weight: 700;
+    margin: 20px auto;
+    color: rgba(14, 41, 161, 0.541);
+}
