@@ -1,0 +1,38 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+  /* Añade más estilos para fichas adicionales aquí */
+
+#spin{
+     background-color: rgba(74, 11, 126, 0.562);
+     border: none;
+     display: block;
+     width: 150px;
+     padding: 12px;
+     color: #fff;
+     font-size: 18px;
+     text-transform: uppercase;
+     border-radius: 10px;
+     margin: auto;
+}
+
+#canvas{
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    color: #fff;
+}
